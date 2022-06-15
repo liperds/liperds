@@ -1,7 +1,7 @@
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liperds&theme=github_dark)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liperds&theme=github_dark)
 
-###  Linhuagens em Estudo!    
+###  Linhuagens!    
 
 </div class=langueges>
   <div style="display: inline_block"><br>
