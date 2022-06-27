@@ -1,22 +1,26 @@
+<h3> 🙋‍♂️ Sobre mim </h3>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Aluno da <a href="https://www.digitalhouse.com/br">Digital House</a> 
+- 🌱 &nbsp; Aprendendo atualmente mais sobre GraphQL.
+
+
+
+  
 <a href="https://app.daily.dev/felipemelo"><img src="https://api.daily.dev/devcards/2eedc7593d51408191bc1d71f2025393.png?r=ug0" width="400" alt="FELIPE RODRIGUES DE MELO's Dev Card"/></a>
 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liperds&theme=github_dark)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liperds&theme=github_dark)
 
-##  Linhuagens!    
+##  Linguagens!
 
-</div class=langueges>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
-  
-##
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
 
 ### Redes Sociais 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-fyyq71vhd-felipe00007.vercel.app/)
@@ -28,3 +32,6 @@
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/liperds/count.svg"/>
 </p>
+
+
+
