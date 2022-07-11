@@ -5,10 +5,7 @@
 - 🚀 &nbsp; Sou Felipe Desenvolvedor Front-end com base sólida em Javascript, CSS, HTML, React.js. Trabalhando sempre com metodologia ágil, Disposto a aprender novas tecnologias e conquistar novos desafios 
 - 🎓 &nbsp; Aluno da <a href="https://www.digitalhouse.com/br">Digital House</a> Certified Tech Developer
 - 👨‍💻 &nbsp; Atualmente Faço especialização em Front-end na Digital House Brasil.
-
-
-
-  
+ 
 <a href="https://app.daily.dev/felipemelo"><img src="https://api.daily.dev/devcards/2eedc7593d51408191bc1d71f2025393.png?r=ug0" width="400" alt="FELIPE RODRIGUES DE MELO's Dev Card"/></a>
 
 
@@ -28,7 +25,7 @@
 
 ###
   
-  <h3><p align="center">Total de visitas no perfil:</p>
+<h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/liperds/count.svg"/>
 </p>
