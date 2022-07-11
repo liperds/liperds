@@ -1,6 +1,6 @@
 <h3> 🙋‍♂️ Sobre mim </h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">  
 
 - 🚀 &nbsp; Sou Felipe Desenvolvedor Front-end com base sólida em Javascript, CSS, HTML, React.js. Trabalhando sempre com metodologia ágil, Disposto a aprender novas tecnologias e conquistar novos desafios 
 - 🎓 &nbsp; Aluno da <a href="https://www.digitalhouse.com/br">Digital House</a> Certified Tech Developer
@@ -28,7 +28,7 @@
 
 ###
   
-  <h3><p align="center">Total de visitas no perfil:</p>
+<h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/liperds/count.svg"/>
 </p>
