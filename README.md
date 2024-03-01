@@ -4,7 +4,8 @@
 
 - 🚀 &nbsp; Sou Felipe Desenvolvedor Front-end com base sólida em Javascript, CSS, HTML, React.js. Trabalhando sempre com metodologia ágil, Disposto a aprender novas tecnologias e conquistar novos desafios 
 - 🎓 &nbsp; Aluno da <a href="https://www.digitalhouse.com/br">Digital House</a> Certified Tech Developer
-- 👨‍💻 &nbsp; Atualmente Faço especialização em Front-end na Digital House Brasil.
+- 🎓 &nbsp; Aluno da <a href="https://unifor.br/">Unifor</a>
+- 👨‍💻 &nbsp; Sou Desenvouvedor na FIEC - Federação das Indústrias do Estado do Ceará.
 
 
 
